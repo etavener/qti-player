@@ -6,6 +6,13 @@
 * Data to be in the QTI XML format - a standard for e-learning assessment data
 * Content to be Interactive and engaging but quick to produce
 
+## Team ##
+Built by [Jay Campbell](http://pyramidium.co.uk/), [Conorde Clarke](https://linkedin.com/in/conorde/), [Isaac Goldfarb](https://linkedin.com/in/isaac-goldfarb-0049851/), Klas Ericsson, [John Kavanagh](http://johnkavanagh.co.uk/), [Malcolm Mullafiroze](https://linkedin.com/in/ardalon/), [Nicky Rojas](http://www.nickyrojas.co.uk/), [Ewan Tavener](http://www.ewantavener.co.uk/)
+
+Directed by [Samu Lang](https://linkedin.com/in/langsamu/)
+
+Produced by [Mark Perry](https://linkedin.com/in/marksperry/)
+
 ## QTI Specification ##
 A standard in e-learning. Utilising a standard that already exists, well documented and has been accepted in the industry.
 https://www.imsglobal.org/question/qtiv2p2/QTIv2p2-ASI-InformationModelv1p0/imsqtiv2p2_asi_v1p0_InfoModelv1p0.html
